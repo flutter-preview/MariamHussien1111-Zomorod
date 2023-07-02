@@ -102,7 +102,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
-<<<<<<< HEAD
   flutter_riverpod:
     dependency: "direct main"
     description:
@@ -111,8 +110,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.3.6"
-=======
->>>>>>> origin/main
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -211,7 +208,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.5"
-<<<<<<< HEAD
   riverpod:
     dependency: "direct main"
     description:
@@ -220,8 +216,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.3.6"
-=======
->>>>>>> origin/main
   sky_engine:
     dependency: transitive
     description: flutter
@@ -243,7 +237,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.11.0"
-<<<<<<< HEAD
   state_notifier:
     dependency: transitive
     description:
@@ -252,8 +245,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.2+1"
-=======
->>>>>>> origin/main
   stream_channel:
     dependency: transitive
     description:
@@ -415,9 +406,5 @@ packages:
     source: hosted
     version: "3.1.4"
 sdks:
-<<<<<<< HEAD
   dart: ">=2.19.6 <3.0.0"
-=======
-  dart: ">=2.19.0 <3.0.0"
->>>>>>> origin/main
   flutter: ">=3.3.0"
